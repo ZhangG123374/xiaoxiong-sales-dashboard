@@ -8,12 +8,12 @@
 
 ## 在线使用
 
-不想下载的话，直接打开这个网址就能用：
+**国内推荐（飞书，打开就能用，不用登录）：**
+https://rcnnimqzvusi.feishu.cn/page/QUb6m29Jjdl8qAahX1icoYdmnIM
 
-**https://zhangg123374.github.io/xiaoxiong-sales-dashboard/**
+打开后点「立即在线使用」。表格只在你的浏览器里处理，不会上传。
 
-打开页面后，表格同样只在你的浏览器里处理，不会上传。
-
+海外 / 备用地址：https://zhangg123374.github.io/xiaoxiong-sales-dashboard/
 ## 下载到电脑上用
 
 想断网使用，或者公司电脑打不开上面的网址，可以把工具下载下来：
